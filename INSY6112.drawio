@@ -1,0 +1,97 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="pCChDaUPBIyF5q0ES7FF">
+    <mxGraphModel dx="1414" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kwwzoFPLcHKE-DPp_PJ2-18" edge="1" parent="1" source="kwwzoFPLcHKE-DPp_PJ2-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="kwwzoFPLcHKE-DPp_PJ2-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kwwzoFPLcHKE-DPp_PJ2-1" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Roaster_ID" vertex="1">
+          <mxGeometry height="90" width="140" x="40" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="kwwzoFPLcHKE-DPp_PJ2-2" parent="kwwzoFPLcHKE-DPp_PJ2-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Name_ID(PK)" vertex="1">
+          <mxGeometry height="30" width="140" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kwwzoFPLcHKE-DPp_PJ2-3" parent="kwwzoFPLcHKE-DPp_PJ2-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Description" vertex="1">
+          <mxGeometry height="30" width="140" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kwwzoFPLcHKE-DPp_PJ2-31" edge="1" parent="1" source="kwwzoFPLcHKE-DPp_PJ2-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="kwwzoFPLcHKE-DPp_PJ2-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kwwzoFPLcHKE-DPp_PJ2-5" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Coffee_ID" vertex="1">
+          <mxGeometry height="120" width="140" x="320" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="kwwzoFPLcHKE-DPp_PJ2-6" parent="kwwzoFPLcHKE-DPp_PJ2-5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="CoffeeBlend_ID(PK)" vertex="1">
+          <mxGeometry height="30" width="140" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kwwzoFPLcHKE-DPp_PJ2-7" parent="kwwzoFPLcHKE-DPp_PJ2-5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Description" vertex="1">
+          <mxGeometry height="30" width="140" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kwwzoFPLcHKE-DPp_PJ2-8" parent="kwwzoFPLcHKE-DPp_PJ2-5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Item 3" vertex="1">
+          <mxGeometry height="30" width="140" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="kwwzoFPLcHKE-DPp_PJ2-32" edge="1" parent="1" source="kwwzoFPLcHKE-DPp_PJ2-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="kwwzoFPLcHKE-DPp_PJ2-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kwwzoFPLcHKE-DPp_PJ2-9" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Packaging_ID" vertex="1">
+          <mxGeometry height="90" width="140" x="560" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="kwwzoFPLcHKE-DPp_PJ2-10" parent="kwwzoFPLcHKE-DPp_PJ2-9" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="NumberOfPackages(PK)" vertex="1">
+          <mxGeometry height="30" width="140" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kwwzoFPLcHKE-DPp_PJ2-11" parent="kwwzoFPLcHKE-DPp_PJ2-9" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="DeScription" vertex="1">
+          <mxGeometry height="30" width="140" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kwwzoFPLcHKE-DPp_PJ2-13" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="PackagingSize_ID" vertex="1">
+          <mxGeometry height="90" width="140" x="320" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="kwwzoFPLcHKE-DPp_PJ2-14" parent="kwwzoFPLcHKE-DPp_PJ2-13" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Name_ID(PK)(FK)" vertex="1">
+          <mxGeometry height="30" width="140" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kwwzoFPLcHKE-DPp_PJ2-15" parent="kwwzoFPLcHKE-DPp_PJ2-13" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Description" vertex="1">
+          <mxGeometry height="30" width="140" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kwwzoFPLcHKE-DPp_PJ2-23" edge="1" parent="1" source="kwwzoFPLcHKE-DPp_PJ2-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="kwwzoFPLcHKE-DPp_PJ2-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kwwzoFPLcHKE-DPp_PJ2-19" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="RoasterCategory_ID" vertex="1">
+          <mxGeometry height="90" width="140" x="520" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kwwzoFPLcHKE-DPp_PJ2-20" parent="kwwzoFPLcHKE-DPp_PJ2-19" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Name_ID(PK)(FK)" vertex="1">
+          <mxGeometry height="30" width="140" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kwwzoFPLcHKE-DPp_PJ2-21" parent="kwwzoFPLcHKE-DPp_PJ2-19" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Description" vertex="1">
+          <mxGeometry height="30" width="140" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kwwzoFPLcHKE-DPp_PJ2-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1...*" vertex="1">
+          <mxGeometry height="25" width="30" x="180" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="kwwzoFPLcHKE-DPp_PJ2-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="*...1" vertex="1">
+          <mxGeometry height="25" width="40" x="280" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="kwwzoFPLcHKE-DPp_PJ2-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1...1" vertex="1">
+          <mxGeometry height="25" width="40" x="460" y="205" as="geometry" />
+        </mxCell>
+        <mxCell id="kwwzoFPLcHKE-DPp_PJ2-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="*...1" vertex="1">
+          <mxGeometry height="30" width="60" x="590" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="kwwzoFPLcHKE-DPp_PJ2-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1...*" vertex="1">
+          <mxGeometry height="25" width="40" x="390" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="kwwzoFPLcHKE-DPp_PJ2-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="*...1" vertex="1">
+          <mxGeometry height="25" width="40" x="390" y="325" as="geometry" />
+        </mxCell>
+        <mxCell id="kwwzoFPLcHKE-DPp_PJ2-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="produces" vertex="1">
+          <mxGeometry height="30" width="60" x="210" y="205" as="geometry" />
+        </mxCell>
+        <mxCell id="kwwzoFPLcHKE-DPp_PJ2-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="belongs to" vertex="1">
+          <mxGeometry height="30" width="60" x="540" y="205" as="geometry" />
+        </mxCell>
+        <mxCell id="kwwzoFPLcHKE-DPp_PJ2-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=-90;" value="Sold in" vertex="1">
+          <mxGeometry height="25" width="50" x="352.5" y="302.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
